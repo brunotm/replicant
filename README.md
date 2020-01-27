@@ -1,3 +1,5 @@
+# This project has moved to a new home on [github.com/unbabel/replicant](https://github.com/unbabel/replicant)
+____________
 # ![Replicant](https://raw.githubusercontent.com/brunotm/replicant/master/doc/logo.png)
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/brunotm/replicant?style=flat-square)](https://goreportcard.com/report/github.com/brunotm/replicant)
